@@ -4,7 +4,7 @@
 ![](covid19_3.PNG)
 ---
 # Introduction: 
----
+
 The first instance of a novel coronavirus was discovered in December 2019, and since then, the number of coronavirus cases has been rising daily. As everyone is aware, the first wave of COVID-19 claimed a large number of lives, and the second wave of COVID-19 saw an increase in deaths.
 
 Although COVID-19 is typically moderate and self-limiting, a significant percentage of patients experience severe and deadly symptoms. Appropriate clinical decision-making requires knowing which patients are more likely to experience a serious illness or pass away.
