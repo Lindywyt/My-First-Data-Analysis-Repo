@@ -1,7 +1,7 @@
 # COVID19 Analysis
 ---
 
-![](covid19_dashboard.PNG)
+![](covid19_3.PNG)
 ---
 # Introduction: 
 
@@ -28,7 +28,7 @@ I made the following three (3) new columns in Excel: Year, Month, and Day. Befor
 
 # Data Analysis and Visualization:
 
-![](covid19 dashboard.PNG)
+![](covid19_dashboard.PNG)
 1. Between January 2020 and March 2023, there were 316bn plus cumulative confirmed cases and 4bn plus cumulative death cases of COVID-19. 
 2. The United States had the greatest prevalence of confirmed COVID-19 cases among the top 5 countries with the highest COVID-19 prevalence over the course of three years (Jan 2020–Mar 2023): India, Brazil, France, Germany, and the United States.
 3. North Korea (300) had the lowest prevalence of confirmed COVID-19 cases, while Winter Olympics (214,462) topped the list of the bottom 5 countries with the lowest COVID-19 prevalence over the course of three years (Jan 2020 - Mar 2023): Holy See, Antarctica, MS Zaandam, North Korea, and North Korea.
