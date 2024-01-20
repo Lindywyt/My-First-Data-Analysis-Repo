@@ -1,7 +1,7 @@
 # COVID19 Analysis
 ---
 
-![](covid19 dashboard.PNG)
+![](covid19_dashboard.PNG)
 ---
 # Introduction: 
 
